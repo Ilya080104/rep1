@@ -1,0 +1,8 @@
+.bg-box{
+    background: url(images/lampochka.png) repeat-x, url(images/Ёжик.png) repeat-y, url(images/пончик.png) repeat-y right bottom, url(images/Dom.jpg) center no-repeat, url(images/gras.png) bottom no-repeat;
+    background-size: contain ;
+    background-size: 50px, 45px, 45px, 600px, 100% 30%;
+    padding: 350px 0;
+    background-color:green;
+    border: 4px dashed black;
+}
